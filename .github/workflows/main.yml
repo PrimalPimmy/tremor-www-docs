@@ -6,7 +6,7 @@ on:
 #       old-version:
 #         description: "Old version"
 #         required: true
-      new-version:
+      newversion:
         description: "New version"
         required: true
 
