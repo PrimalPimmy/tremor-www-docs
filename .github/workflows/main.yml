@@ -3,9 +3,9 @@ name: "Draft new release"
 on:
   workflow_dispatch:
     inputs:
-      old-version:
-        description: "Old version"
-        required: true
+#       old-version:
+#         description: "Old version"
+#         required: true
       new-version:
         description: "New version"
         required: true
